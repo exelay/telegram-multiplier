@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Comment=Official desktop version of Telegram messaging app
+Exec=telegram-desktop -many -workdir /home/zorin/.telegrams/.telegram_red
+Icon=/home/zorin/.telegrams/.telegram_icons/telegram_red.png
+Name=Red Telegram
+Terminal=false
+StartupWMClass=TelegramDesktop
+Type=Application
+Categories=Network;InstantMessaging;Qt;
+MimeType=x-scheme-handler/tg;
+X-Desktop-File-Install-Version=0.22
